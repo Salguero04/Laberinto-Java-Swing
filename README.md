@@ -20,6 +20,7 @@ Gráficos: Java Swing y AWT.
 Entorno: Desarrollado en NetBeans y gestionado con Visual Studio Code.
 
 👥 Equipo de Desarrollo
+
 Desarrolladores Principales:
 
 Mario Alexander Salguero Castillo
