@@ -21,8 +21,8 @@ Entorno: Desarrollado en NetBeans y gestionado con Visual Studio Code.
 
 👥 Equipo de Desarrollo
 Desarrolladores Principales:
-Mario Alexander Salguero Castillo
 
+Mario Alexander Salguero Castillo
 Ariel Rosales Borbor William
 
 Colaboradores (Grupo #2):
